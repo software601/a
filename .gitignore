@@ -1,0 +1,6 @@
+node
+*.tar
+pc0/
+speedtest.bin
+*.enc
+.DS_Store
